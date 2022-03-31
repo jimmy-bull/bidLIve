@@ -7,19 +7,17 @@ namespace Composer\Autoload;
 class ComposerStaticInit38522cd0e6da6822a57ddd2f98091038
 {
     public static $files = array (
-        'a4a119a56e50fbb293281d9a48007e0e' => __DIR__ . '/..' . '/symfony/polyfill-php80/bootstrap.php',
         'ec07570ca5a812141189b1fa81503674' => __DIR__ . '/..' . '/phpunit/phpunit/src/Framework/Assert/Functions.php',
         '6e3fae29631ef280660b3cdad06f25a8' => __DIR__ . '/..' . '/symfony/deprecation-contracts/function.php',
+        'a4a119a56e50fbb293281d9a48007e0e' => __DIR__ . '/..' . '/symfony/polyfill-php80/bootstrap.php',
         '0e6d7bf4a5811bfa5cf40c5ccd6fae6a' => __DIR__ . '/..' . '/symfony/polyfill-mbstring/bootstrap.php',
         'e69f7f6ee287b969198c3c9d6777bd38' => __DIR__ . '/..' . '/symfony/polyfill-intl-normalizer/bootstrap.php',
         '25072dd6e2470089de65ae7bf11d3109' => __DIR__ . '/..' . '/symfony/polyfill-php72/bootstrap.php',
         'f598d06aa772fa33d905e87be6398fb1' => __DIR__ . '/..' . '/symfony/polyfill-intl-idn/bootstrap.php',
         '320cde22f66dd4f5d3fd621d3e88b98f' => __DIR__ . '/..' . '/symfony/polyfill-ctype/bootstrap.php',
         '0d59ee240a4cd96ddbb4ff164fccea4d' => __DIR__ . '/..' . '/symfony/polyfill-php73/bootstrap.php',
-        '8825ede83f2f289127722d4e842cf7e8' => __DIR__ . '/..' . '/symfony/polyfill-intl-grapheme/bootstrap.php',
-        'b6b991a57620e2fb6b2f66f03fe9ddc2' => __DIR__ . '/..' . '/symfony/string/Resources/functions.php',
-        'ad155f8f1cf0d418fe49e248db8c661b' => __DIR__ . '/..' . '/react/promise/src/functions_include.php',
         '667aeda72477189d0494fecd327c3641' => __DIR__ . '/..' . '/symfony/var-dumper/Resources/functions/dump.php',
+        'ad155f8f1cf0d418fe49e248db8c661b' => __DIR__ . '/..' . '/react/promise/src/functions_include.php',
         '0941da88a3052b85806ae48fb60c05ed' => __DIR__ . '/..' . '/aimeos/map/src/function.php',
         '972fda704d680a3a53c68e34e193cb22' => __DIR__ . '/..' . '/react/promise-timer/src/functions_include.php',
         'def43f6c87e4f8dfd0c9e1b1bab14fe8' => __DIR__ . '/..' . '/symfony/polyfill-iconv/bootstrap.php',
@@ -27,12 +25,12 @@ class ComposerStaticInit38522cd0e6da6822a57ddd2f98091038
         '7b11c4dc42b3b3023073cb14e519683c' => __DIR__ . '/..' . '/ralouphie/getallheaders/src/getallheaders.php',
         'c964ee0ededf28c96ebd9db5099ef910' => __DIR__ . '/..' . '/guzzlehttp/promises/src/functions_include.php',
         '801c31d8ed748cfa537fa45402288c95' => __DIR__ . '/..' . '/psy/psysh/src/functions.php',
+        '37a3dc5111fe8f707ab4c132ef1dbc62' => __DIR__ . '/..' . '/guzzlehttp/guzzle/src/functions_include.php',
         '23c18046f52bef3eea034657bafda50f' => __DIR__ . '/..' . '/symfony/polyfill-php81/bootstrap.php',
         'a1105708a18b76903365ca1c4aa61b02' => __DIR__ . '/..' . '/symfony/translation/Resources/functions.php',
-        '37a3dc5111fe8f707ab4c132ef1dbc62' => __DIR__ . '/..' . '/guzzlehttp/guzzle/src/functions_include.php',
         'cea474b4340aa9fa53661e887a21a316' => __DIR__ . '/..' . '/react/promise-stream/src/functions_include.php',
-        'e39a8b23c42d4e1452234d762b03835a' => __DIR__ . '/..' . '/ramsey/uuid/src/functions.php',
         '538ca81a9a966a6716601ecf48f4eaef' => __DIR__ . '/..' . '/opis/closure/functions.php',
+        'e39a8b23c42d4e1452234d762b03835a' => __DIR__ . '/..' . '/ramsey/uuid/src/functions.php',
         '265b4faa2b3a9766332744949e83bf97' => __DIR__ . '/..' . '/laravel/framework/src/Illuminate/Collections/helpers.php',
         'c7a3c339e7e14b60e06a2d7fcce9476b' => __DIR__ . '/..' . '/laravel/framework/src/Illuminate/Events/functions.php',
         'f0906e6318348a765ffb6eb24e0d0938' => __DIR__ . '/..' . '/laravel/framework/src/Illuminate/Foundation/helpers.php',
@@ -53,11 +51,13 @@ class ComposerStaticInit38522cd0e6da6822a57ddd2f98091038
         'cc8e14526dc240491e17a838cb78508c' => __DIR__ . '/..' . '/laminas/laminas-diactoros/src/functions/normalize_server.legacy.php',
         '786bf90caabc9e09b6ad4cc5ca8f0e30' => __DIR__ . '/..' . '/laminas/laminas-diactoros/src/functions/normalize_uploaded_files.legacy.php',
         '751a5a3f463e4be759be31748b61737c' => __DIR__ . '/..' . '/laminas/laminas-diactoros/src/functions/parse_cookie_header.legacy.php',
-        'ebf8799635f67b5d7248946fe2154f4a' => __DIR__ . '/..' . '/ringcentral/psr7/src/functions_include.php',
         '3109cb1a231dcd04bee1f9f620d46975' => __DIR__ . '/..' . '/paragonie/sodium_compat/autoload.php',
+        'ebf8799635f67b5d7248946fe2154f4a' => __DIR__ . '/..' . '/ringcentral/psr7/src/functions_include.php',
+        '8825ede83f2f289127722d4e842cf7e8' => __DIR__ . '/..' . '/symfony/polyfill-intl-grapheme/bootstrap.php',
         '8ea14d6df73c6a682673f716c3eb4d38' => __DIR__ . '/..' . '/aimeos/aimeos-laravel/src/helpers.php',
         '9cdd7b9056abc3081735233ba9dd9c7f' => __DIR__ . '/..' . '/facade/flare-client-php/src/helpers.php',
         '6124b4c8570aa390c21fafd04a26c69f' => __DIR__ . '/..' . '/myclabs/deep-copy/src/DeepCopy/deep_copy.php',
+        'b6b991a57620e2fb6b2f66f03fe9ddc2' => __DIR__ . '/..' . '/symfony/string/Resources/functions.php',
         'ed962a97bd972bc82007176b647d4e36' => __DIR__ . '/..' . '/facade/ignition/src/helpers.php',
     );
 
@@ -253,8 +253,8 @@ class ComposerStaticInit38522cd0e6da6822a57ddd2f98091038
         'phpDocumentor\\Reflection\\' => 
         array (
             0 => __DIR__ . '/..' . '/phpdocumentor/reflection-common/src',
-            1 => __DIR__ . '/..' . '/phpdocumentor/type-resolver/src',
-            2 => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src',
+            1 => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src',
+            2 => __DIR__ . '/..' . '/phpdocumentor/type-resolver/src',
         ),
         'enshrined\\svgSanitize\\' => 
         array (
@@ -458,8 +458,8 @@ class ComposerStaticInit38522cd0e6da6822a57ddd2f98091038
         ),
         'Psr\\Http\\Message\\' => 
         array (
-            0 => __DIR__ . '/..' . '/psr/http-message/src',
-            1 => __DIR__ . '/..' . '/psr/http-factory/src',
+            0 => __DIR__ . '/..' . '/psr/http-factory/src',
+            1 => __DIR__ . '/..' . '/psr/http-message/src',
         ),
         'Psr\\Http\\Client\\' => 
         array (
@@ -677,18 +677,18 @@ class ComposerStaticInit38522cd0e6da6822a57ddd2f98091038
         'Aimeos\\MW\\' => 
         array (
             0 => __DIR__ . '/..' . '/aimeos-themes/bidsystem/lib/mwlib/src/MW',
-            1 => __DIR__ . '/..' . '/aimeos/ai-swiftmailer/lib/custom/src/MW',
-            2 => __DIR__ . '/..' . '/aimeos/ai-laravel/lib/custom/src/MW',
+            1 => __DIR__ . '/..' . '/aimeos/ai-admin-jqadm/lib/custom/src/MW',
+            2 => __DIR__ . '/..' . '/aimeos/ai-client-jsonapi/lib/custom/src/MW',
             3 => __DIR__ . '/..' . '/aimeos/ai-gettext/lib/mwlib/src/MW',
-            4 => __DIR__ . '/..' . '/aimeos/ai-client-jsonapi/lib/custom/src/MW',
-            5 => __DIR__ . '/..' . '/aimeos/aimeos-core/lib/mwlib/src/MW',
-            6 => __DIR__ . '/..' . '/aimeos/ai-admin-jqadm/lib/custom/src/MW',
+            4 => __DIR__ . '/..' . '/aimeos/ai-laravel/lib/custom/src/MW',
+            5 => __DIR__ . '/..' . '/aimeos/ai-swiftmailer/lib/custom/src/MW',
+            6 => __DIR__ . '/..' . '/aimeos/aimeos-core/lib/mwlib/src/MW',
         ),
         'Aimeos\\MShop\\' => 
         array (
             0 => __DIR__ . '/..' . '/aimeos-themes/bidsystem/lib/mshoplib/src/MShop',
-            1 => __DIR__ . '/..' . '/aimeos/aimeos-core/lib/mshoplib/src/MShop',
-            2 => __DIR__ . '/..' . '/aimeos/ai-cms-grapesjs/lib/mshoplib/src/MShop',
+            1 => __DIR__ . '/..' . '/aimeos/ai-cms-grapesjs/lib/mshoplib/src/MShop',
+            2 => __DIR__ . '/..' . '/aimeos/aimeos-core/lib/mshoplib/src/MShop',
         ),
         'Aimeos\\MAdmin\\' => 
         array (
@@ -698,9 +698,9 @@ class ComposerStaticInit38522cd0e6da6822a57ddd2f98091038
         'Aimeos\\Controller\\Jobs\\' => 
         array (
             0 => __DIR__ . '/..' . '/aimeos-themes/bidsystem/controller/jobs/src/Controller/Jobs',
-            1 => __DIR__ . '/..' . '/aimeos/ai-controller-jobs/controller/jobs/src/Controller/Jobs',
-            2 => __DIR__ . '/..' . '/aimeos/aimeos-core/controller/common/src/Controller/Jobs',
-            3 => __DIR__ . '/..' . '/aimeos/ai-client-html/controller/jobs/src/Controller/Jobs',
+            1 => __DIR__ . '/..' . '/aimeos/ai-client-html/controller/jobs/src/Controller/Jobs',
+            2 => __DIR__ . '/..' . '/aimeos/ai-controller-jobs/controller/jobs/src/Controller/Jobs',
+            3 => __DIR__ . '/..' . '/aimeos/aimeos-core/controller/common/src/Controller/Jobs',
         ),
         'Aimeos\\Controller\\Frontend\\' => 
         array (
@@ -710,9 +710,9 @@ class ComposerStaticInit38522cd0e6da6822a57ddd2f98091038
         'Aimeos\\Controller\\Common\\' => 
         array (
             0 => __DIR__ . '/..' . '/aimeos-themes/bidsystem/controller/common/src/Controller/Common',
-            1 => __DIR__ . '/..' . '/aimeos/ai-controller-jobs/controller/jobs/src/Controller/Common',
-            2 => __DIR__ . '/..' . '/aimeos/aimeos-core/controller/common/src/Controller/Common',
-            3 => __DIR__ . '/..' . '/aimeos/ai-client-html/controller/common/src/Controller/Common',
+            1 => __DIR__ . '/..' . '/aimeos/ai-client-html/controller/common/src/Controller/Common',
+            2 => __DIR__ . '/..' . '/aimeos/ai-controller-jobs/controller/jobs/src/Controller/Common',
+            3 => __DIR__ . '/..' . '/aimeos/aimeos-core/controller/common/src/Controller/Common',
         ),
         'Aimeos\\Client\\Jsonapi\\' => 
         array (
@@ -735,8 +735,8 @@ class ComposerStaticInit38522cd0e6da6822a57ddd2f98091038
         'Aimeos\\Admin\\JQAdm\\' => 
         array (
             0 => __DIR__ . '/..' . '/aimeos-themes/bidsystem/admin/jqadm/src/Admin/JQAdm',
-            1 => __DIR__ . '/..' . '/aimeos/ai-cms-grapesjs/admin/jqadm/src/Admin/JQAdm',
-            2 => __DIR__ . '/..' . '/aimeos/ai-admin-jqadm/admin/jqadm/src/Admin/JQAdm',
+            1 => __DIR__ . '/..' . '/aimeos/ai-admin-jqadm/admin/jqadm/src/Admin/JQAdm',
+            2 => __DIR__ . '/..' . '/aimeos/ai-cms-grapesjs/admin/jqadm/src/Admin/JQAdm',
         ),
         'Aimeos\\' => 
         array (
@@ -2302,7 +2302,9 @@ class ComposerStaticInit38522cd0e6da6822a57ddd2f98091038
         'App\\Http\\Controllers\\Auth\\RegisterController' => __DIR__ . '/../..' . '/app/Http/Controllers/Auth/RegisterController.php',
         'App\\Http\\Controllers\\Auth\\ResetPasswordController' => __DIR__ . '/../..' . '/app/Http/Controllers/Auth/ResetPasswordController.php',
         'App\\Http\\Controllers\\Auth\\VerificationController' => __DIR__ . '/../..' . '/app/Http/Controllers/Auth/VerificationController.php',
+        'App\\Http\\Controllers\\BidController' => __DIR__ . '/../..' . '/app/Http/Controllers/BidController.php',
         'App\\Http\\Controllers\\Controller' => __DIR__ . '/../..' . '/app/Http/Controllers/Controller.php',
+        'App\\Http\\Controllers\\LoginRegistering' => __DIR__ . '/../..' . '/app/Http/Controllers/LoginRegistering.php',
         'App\\Http\\Kernel' => __DIR__ . '/../..' . '/app/Http/Kernel.php',
         'App\\Http\\Middleware\\Authenticate' => __DIR__ . '/../..' . '/app/Http/Middleware/Authenticate.php',
         'App\\Http\\Middleware\\EncryptCookies' => __DIR__ . '/../..' . '/app/Http/Middleware/EncryptCookies.php',
@@ -2314,7 +2316,9 @@ class ComposerStaticInit38522cd0e6da6822a57ddd2f98091038
         'App\\Http\\Middleware\\TrustHosts' => __DIR__ . '/../..' . '/app/Http/Middleware/TrustHosts.php',
         'App\\Http\\Middleware\\TrustProxies' => __DIR__ . '/../..' . '/app/Http/Middleware/TrustProxies.php',
         'App\\Http\\Middleware\\VerifyCsrfToken' => __DIR__ . '/../..' . '/app/Http/Middleware/VerifyCsrfToken.php',
+        'App\\Models\\BidData' => __DIR__ . '/../..' . '/app/Models/BidData.php',
         'App\\Models\\User' => __DIR__ . '/../..' . '/app/Models/User.php',
+        'App\\Models\\attr' => __DIR__ . '/../..' . '/app/Models/attr.php',
         'App\\Providers\\AppServiceProvider' => __DIR__ . '/../..' . '/app/Providers/AppServiceProvider.php',
         'App\\Providers\\AuthServiceProvider' => __DIR__ . '/../..' . '/app/Providers/AuthServiceProvider.php',
         'App\\Providers\\BroadcastServiceProvider' => __DIR__ . '/../..' . '/app/Providers/BroadcastServiceProvider.php',

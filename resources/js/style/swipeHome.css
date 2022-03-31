@@ -37,8 +37,9 @@ html,
 }
 
 .carouselBody {
-    margin-left: 100px;
-    margin-right: 100px
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 50px;
 }
 
 .swiper-button-prev {
@@ -75,28 +76,31 @@ html,
 
 .categorieBlockelement {
     display: flex;
-    justify-content: space-between;
     flex-wrap: wrap;
-    background: #f0f1f5;
-    padding: 20px;
-    align-items: center;
-    align-content: center;
+    min-height: 150px;
+    justify-content: center;
+    margin-bottom: 20px;
+    flex: 1;
 }
 
 .elementCategorie img {
     width: 80px;
     height: 80px;
-    border-radius: 50%;
-    aspect-ratio: 100/100;
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 10px;
+    aspect-ratio: 80/80;
     background: #f0f1f5;
 }
 
 .elementCategorie {
+    color: gray;
     display: flex;
     flex-direction: column;
-    text-decoration: none;
+    align-self: center;
+    height: 100%;
+    justify-content: center;
     align-items: center;
+    text-decoration: none;
+    margin: 0 20px 0px 20px;
 }
 
 @media screen and (max-width: 1000px) {
