@@ -1,6 +1,0 @@
-/ext
-/vendor
-composer.lock
-.phpunit.result.cache
-.idea/
-node_modules

@@ -1,2 +1,0 @@
-# bidy
- bid extension
